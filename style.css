@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#1c923f ;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.portada img{
+  width: 500px;
+}
+.titulo p{
+  font-size: 50px;
+  color: white;
+  font-family: 'Times New Roman'; 
+}
+.enlace p{
+  font-size: 30px;
+  color: white;
+  font-family: 'Lobster'; 
+}
+.subtitulo p{
+  font-size: 30px;
+  color: white;
+  font-family: 'Lobster';;
+}
+.explicacion p{
+  font-size:30px; 
+  color: white;
+  font-family: 'Lobster';
+  text-align: justify;
+  margin: 20px;
+}
+.explicacion img{
+  height: 300px;
+}
+}
